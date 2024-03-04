@@ -1,0 +1,24 @@
+#kiarash{  
+    color: blueviolet ;
+    font-size: 28px ;
+}
+#nazanin{ color: blue;
+    font-size: 38px;
+
+}
+:root{
+    --bgcolor:var(--bgcolor)#242415;
+    --maincolor:#7e3544;
+    --secbgcolor:#FFCDB2;
+    --textcolor:#744227;
+}
+body {
+    background:var(--bgcolor);
+color: var(--textcolor);}
+h1,
+h2,
+h3 {
+    font-size: 30px;
+}
+
+
