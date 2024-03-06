@@ -1,0 +1,43 @@
+.header{    color:rgb(211, 225, 225);
+    font-size: width 50%;
+    background-color: rgb(10, 17, 24);
+    font-weight: 400;
+    font-family:Tahoma, sans-serif;
+    border-right:3px blue;
+    border-top: 3px blue;
+    border-style: groove;
+    padding: 5px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+body{ background-color: rgb(162, 200, 200);}
+
+.list-class {
+    background-color: white;
+    border-radius: 3px;
+    margin: 20px;
+    padding-left: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 3px black;
+}
+.list-class ul {
+    list-style: none;
+}
+a{ text-decoration: none;
+     color:black;
+     text-align: center;
+
+}
+a:hover{
+    text-decoration: underline;
+}
+a:active {
+    color:purple;
+}
+a:visited{ color: yellowgreen;
+
+}
+
+
